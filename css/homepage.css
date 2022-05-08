@@ -1,8 +1,23 @@
-/* #popupDiv {
+#popupDiv {
     display: block;    
-    background-color: red;
-} */
+    
+}
 
-body {
-    background-color: red;
+.desktop-notice {
+    color: black;
+    background-color: #B9CDC4 70%;
+    font-size: 1rem;
+    text-align: left;
+    position: relative;
+    top: 0;
+    z-index: 80;
+    width: 100%;
+    padding: 1px 0px 1px 0px;
+    font-weight: 600;
+    letter-spacing: 3px; 
+}
+
+.container {
+    min-height: 100%;
+    height: 100%;
 }
