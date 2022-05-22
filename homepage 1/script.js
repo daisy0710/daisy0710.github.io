@@ -33,13 +33,3 @@ jd4.addEventListener('click', function () {
     document.documentElement.style.overflow = 'scroll';
 }, false)
 
-
-  // if (jd1.children[2].style.display == 'none') {
-            //     console.log(1234556)
-            //     c.children[0].style.display = 'flex'
-            //     c.children[1].style.display = 'none'
-            // }else {
-            //     console.log("aaaaaaa")
-            //     c.children[0].style.display = 'flex'
-            //     c.children[1].style.display = 'none'
-            // }
