@@ -19,6 +19,7 @@ a{
     /* background-color: rgb(244, 238, 234); */
     justify-content: space-between;
     margin: auto;
+    
    
 }
 
@@ -33,7 +34,8 @@ a{
     background-color: #CEDCD5;
     text-align: center;
     line-height: 3vw;
-    font-size: 1.5vw;
+    font-size: 1vw;
+    font-family: myfonttt;
 }
 
 .tou{
@@ -797,6 +799,6 @@ font-family: myfont;
 
 }
 
-/* .hangzi12,.hangzi112{
+.hangzi12,.hangzi112{
     display: none;
-} */
+}
