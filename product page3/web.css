@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration:none
+}
+input{
+    border: none;
+}
+html{
+    font-size: 1px;
+}
+
+.box{
+    /* width: 100vw; */
+    width: 100%;
+    /* height: 800vh; */
+    /* background-color: rgb(244, 238, 234); */
+    justify-content: space-between;
+    margin: auto;
+   
+}
+
+.yuandd{
+    transform: scale(1.6);
+}
+
+.box1{
+    /* width: 100vw; */
+    width: 100%;
+    height: 3vw;
+    background-color: #CEDCD5;
+    text-align: center;
+    line-height: 3vw;
+    font-size: 1vw;
+    font-family: myfonttt;
+}
+
+.tou{
+    width: 100%;
+    height:6vw;
+    /* background-color: white; */
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.tou img{
+  
+    height: 4vw;
+    margin-left: 10vw;
+    margin-top: 1vw;
+    cursor: pointer;
+}
+
+.tz2{
+    width: 14.5vw;
+    height: 100%;
+    /* background-color: antiquewhite; */
+    margin-right: 10vw;
+    display: flex;
+    
+}
+
+.tu1 img{
+    width: 2.5vw;
+    height: 2.5vw;
+    /* background-color: #ffffff; */
+    margin-left:2.3vw;
+    margin-top: 2vw;
+}
+
+.xi{
+    width: 100%;
+    height: 50vw;
+    /* background-color: aquamarine; */
+}
+
+.la{
+    /* width: 100vw; */
+    width: 100%;
+    height: 4.5vw;
+    background-color: #CEDCD5;
+    justify-content: space-between;
+    display: flex;
+    font-family: myfonttt;
+}
+
+.laa{
+    width: 80vw;
+    height: 4.5vw;
+    background-color: #CEDCD5;
+    justify-content: space-between;
+    display: flex;
+    margin: auto;
+    font-family: myfonttt;
+}
+
+.la1{
+    width: 9%;
+    height: 4.5vw;
+    /* background-color: violet; */
+    text-align: center;
+    line-height: 4.5vw;
+    font-size:1.1vw;
+    font-family: myfonttt;
+}
+
+.la2{
+    box-sizing: border-box;
+    width: 9%;
+    height: 4.5vw;
+    /* line-height: 4.5vw; */
+    /* background-color: violet; */
+    text-align: center;
+    /* line-height: 4.5vw; */
+    padding-top: 0.5vw;
+    font-size:1.1vw;
+    font-family: myfonttt;
+}
+
+.la3{
+    box-sizing: border-box;
+    width: 9%;
+    height: 4.5vw;
+    line-height: 4.5vw;
+    /* background-color: violet; */
+    text-align: center;
+    /* line-height: 4.5vw; */
+    /* padding-top: 0.5vw; */
+    font-size:1.1vw;
+    font-family: myfonttt;
+}
+
+.sousuo{
+    width: 80vw;
+    height: 4.5vw;
+    margin: auto;
+    /* background-color: rgb(255, 255, 255); */
+    border-radius: 30px;
+    display: flex;
+    box-shadow: 0vw 0.4vw 0.5vw 0.1vw rgb(168, 167, 167);
+    margin-top: 1.5vw;
+}
+
+.faj{
+    width: 2.5vw;
+    height: 2.5vw;
+    /* background-color: #12633b; */
+    margin-top: 1vw;
+    /* border: 1px solid forestgreen; */
+    margin-left: 2vw;
+}
+
+.faj img{
+
+    width: 2.5vw;
+    height: 2.5vw;   
+    /* background-color: #12633b; */
+
+}
