@@ -784,7 +784,7 @@ a{
     background: COL;
 }
 .the{
-    margin-top: 10vw;
+    margin-top: 3vw;
     width: 50vw;
     height: 13vw;
     /* background-color: #1587C8; */
@@ -794,7 +794,7 @@ a{
     width: 10vw;
     height: 10vw;
     /* background-color: #CEDCD5; */
-    margin-top: 2vw;
+    margin-top: -2vw;
     margin-left: 1vw;
 }
 
