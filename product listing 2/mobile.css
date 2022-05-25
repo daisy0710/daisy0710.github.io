@@ -1,0 +1,201 @@
+a{
+    text-decoration: none;
+}
+
+html{
+    font-size: 1px;
+    user-select: none;
+}
+
+.box1{
+    display: none;
+}
+
+.la{
+    display: none;
+ }
+
+ .zu{
+    display: none;
+}
+
+.zuu{
+    width: 100%;
+    height: 60vw;
+    /* background-color: violet;   */
+    display: flex;   
+    justify-content: space-between;
+    margin-top: 2.5vw;
+  
+ }
+ .zu1u{
+    /* background-color: aqua; */
+    height: 60vw;
+    width: 57%;
+    overflow: hidden;
+    /* background-color: yellow; */
+    /* background-color: #12633b; */
+}
+
+.zu2u{
+    /* background-color: aqua; */
+     height: 60vw;
+     width: 35%;
+     overflow: hidden;
+}
+
+.zu2u img{
+    width: 50vw;
+    position: relative;
+    
+}
+
+.tzz{
+    display: none;
+}
+
+.zz{
+    display: none;
+}
+
+.zzz{
+    width: 100%;
+    height: 4vw;
+    /* background-color: #12633b; */
+    display: flex;
+    justify-content: space-between;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("./typography/new york/FontsFree-Net-NewYork.ttf");
+
+}
+
+.zz1z,.zz2z{
+    font-size: 5vw;
+    color: white;
+font-family: myfont;
+}
+
+.zz1z{
+ 
+    /* margin-left: 26vw; */
+    position: relative;
+    z-index: 1;
+    top: -14vw;
+    left: 10vw;
+}
+
+.tou{
+    display: none;
+}
+
+.touu{
+    width: 100%;
+    height:10vw;
+    background-color: #CEDCD5;
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.caidan{
+    width: 20vw;
+    height: 10vw;
+    /* background-color: antiquewhite; */
+}
+
+.caidan img{
+    width: 7vw;
+    height: 7vw;
+    /* background-color: antiquewhite; */
+    position: relative;
+    top: 2vw;
+    left: 10vw;
+}
+
+.tzuu img{
+    width: 30vw;
+    position: relative;
+    top: 2vw;
+
+}
+
+.tz2u{
+    width: 32vw;
+    height: 10vw;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    margin-left: 8vw;
+
+}
+
+.tz2u img{
+    width: 5vw;
+    height: 5vw;
+    position: relative;
+    top: 1.5vw;
+}
+
+.hangzi1,.hangzi11{
+    display: none;
+}
+
+.hangzi12{
+    width: 100%;
+    height: 5vw;
+    /* background-color: #2ac276; */
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 5vw;
+    margin-top: 2vw;
+   
+}
+
+.hangzi112{
+    width: 100%;
+    height: 8vw;
+    /* background-color: #2ac276; */
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 5vw;
+    justify-content: space-between;
+   
+}
+
+.hangzi12 .hang1{
+    line-height: 5vw;
+    font-size: 2vw;
+    font-family: myfonttt;
+}
+
+.hangzi12 .hang2{
+    line-height: 5vw;
+    font-family: myfonttt;
+    font-size: 2vw;
+    color: #0880C5;
+}
+
+.hangzi112 .hang1{
+    line-height: 5vw;
+    font-size: 3vw;
+    font-family: myfonttt;
+    
+}
+
+.hangzi112 .hang22{
+    line-height: 5vw;
+    font-size: 3vw;
+    font-family: myfonttt;
+}
+
+.shaixuan{
+    top: 63vw;
+    right: 4vw;
+
+}
+
+.datu{
+    height: 55vw;
+}
