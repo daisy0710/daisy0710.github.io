@@ -1,0 +1,132 @@
+.box1{
+    display: none;
+}
+
+.la{
+    display: none;
+ }
+
+ a{
+    text-decoration: none;
+}
+
+.zu{
+    display: none;
+}
+
+.zuu{
+    width: 100%;
+    height: 60vw;
+    /* background-color: violet;   */
+    display: flex;   
+    justify-content: space-between;
+    margin-top: 2.5vw;
+  
+}
+
+.zu1u{
+    /* background-color: aqua; */
+    height: 60vw;
+    width: 57%;
+    overflow: hidden;
+    /* background-color: yellow; */
+    /* background-color: #12633b; */
+}
+
+.zu2u{
+    /* background-color: aqua; */
+     height: 60vw;
+     width: 35%;
+     overflow: hidden;
+}
+
+.zu2u img{
+    width: 50vw;
+    position: relative;
+    
+}
+
+.zz{
+    display: none;
+}
+
+.zzz{
+    width: 100%;
+    height: 4vw;
+    /* background-color: #12633b; */
+    display: flex;
+    justify-content: space-between;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("./typography/new york/FontsFree-Net-NewYork.ttf");
+
+}
+
+.zz1z,.zz2z{
+    font-size: 5vw;
+    color: white;
+font-family: myfont;
+}
+
+.zz1z{
+ 
+    /* margin-left: 26vw; */
+    position: relative;
+    z-index: 1;
+    top: -14vw;
+    left: 10vw;
+}
+
+.tou{
+    display: none;
+}
+
+.touu{
+    width: 100%;
+    height:10vw;
+    background-color: #CEDCD5;
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.caidan{
+    width: 20vw;
+    height: 10vw;
+    /* background-color: antiquewhite; */
+}
+
+.caidan img{
+    width: 5vw;
+    height: 5vw;
+    /* background-color: antiquewhite; */
+    position: relative;
+    top: 2vw;
+    left: 10vw;
+}
+
+.tzuu img{
+    width: 30vw;
+    position: relative;
+    top: 2vw;
+
+}
+
+.tz2u{
+    width: 32vw;
+    height: 10vw;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    margin-left: 8vw;
+
+}
+
+.tz2u img{
+    width: 5vw;
+    height: 5vw;
+    position: relative;
+    top: 1.5vw;
+}
+
