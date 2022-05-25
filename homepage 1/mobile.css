@@ -1,0 +1,298 @@
+a{
+    text-decoration: none;
+}
+.box1{
+     display: none;
+}
+
+.la{
+    display: none;
+}
+
+.zu{
+    display: none;
+}
+
+.zuu{
+    width: 100%;
+    height: 60vw;
+    /* background-color: violet;   */
+    display: flex;   
+    justify-content: space-between;
+    margin-top: 2.5vw;
+  
+}
+
+.zu1u{
+    /* background-color: aqua; */
+    height: 60vw;
+    width: 57%;
+    overflow: hidden;
+    /* background-color: yellow; */
+    /* background-color: #12633b; */
+}
+
+.zu1u img{
+    height: 60vw;
+    position: relative;
+    left: -70px;
+
+}
+
+.zu2u{
+    /* background-color: aqua; */
+     height: 60vw;
+     width: 35%;
+     overflow: hidden;
+}
+
+.zu2u img{
+    width: 50vw;
+  
+    position: relative;
+    
+}
+
+.zz{
+    display: none;
+}
+
+.zzz{
+    width: 100%;
+    height: 4vw;
+    /* background-color: #12633b; */
+    display: flex;
+    justify-content: space-between;
+}
+
+@font-face {
+    font-family: "myfont";
+    src: url("./typography/new york/FontsFree-Net-NewYork.ttf");
+
+}
+
+.zz1z,.zz2z{
+    font-size: 5vw;
+    color: white;
+    font-family: myfont;
+}
+
+.zz1z,.zz2z{
+    font-size: 5vw;
+    color: white;
+font-family: myfont;
+}
+
+.zz1z{
+ 
+    /* margin-left: 26vw; */
+    position: relative;
+    z-index: 1;
+    top: -14vw;
+    left: 10vw;
+}
+
+.tou{
+    display: none;
+}
+
+.touu{
+    width: 100%;
+    height:10vw;
+    background-color: #CEDCD5;
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.caidan{
+    width: 20vw;
+    height: 10vw;
+    /* background-color: antiquewhite; */
+}
+
+.caidan img{
+    width: 5vw;
+    height: 5vw;
+    /* background-color: antiquewhite; */
+    position: relative;
+    top: 2vw;
+    left: 10vw;
+}
+
+.tzuu img{
+    width: 30vw;
+    position: relative;
+    top: 2vw;
+
+}
+
+.tz2u{
+    width: 32vw;
+    height: 10vw;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    margin-left: 8vw;
+
+}
+
+.tz2u img{
+    width: 5vw;
+    height: 5vw;
+    position: relative;
+    top: 1.5vw;
+}
+
+.zuida{
+    position: absolute;
+}
+
+.zhengge{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255,5);
+  
+}
+
+.ce{
+    width: 70vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    z-index: 3;
+}
+
+.zhongg{
+    position: absolute;
+     width: 100vw; 
+     height: 110vh; 
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: -10vw;
+    z-index: 2;
+   
+}
+
+.swa{
+    width: 100%;
+    height: 10vw;
+    background-color: #D7E3DD;
+    display: flex;
+}
+
+.sw img{
+    width: 30vw;
+    position: relative;
+    top: 2vw;
+    left: 5vw;
+}
+
+.sww img{
+    width: 7vw;
+    position: relative;
+    left: 18vw;
+    top: 2vw;
+    cursor: pointer;
+}
+
+.swww img{
+    width: 7vw;
+    position: relative;
+    left: 24vw;
+    top: 2vw;
+    cursor: pointer;
+}
+.sousuo{
+    width: 100%;
+    background-color: white;
+    margin-top: 5;
+}
+.ss{
+    width: 80%;
+    /* height: 7vw; */
+    /* background-color: rgb(173, 173, 173); */
+    border: 1px solid black;
+    margin-top: 5;
+    display: flex;
+    border-radius: 10vw;
+    position: relative;
+    top: 2vw;
+    left: 6vw;
+   
+}
+
+.fajj img{
+    width: 5vw;
+    height: 5vw;
+    position: relative;
+    top: 0.5vw;
+    left: 2vw;
+
+}
+.ss input{
+    height: 5vw;
+    width: 50%;
+    position: relative;
+    top: -0.5vw;
+    left: 2vw;
+    
+}
+.off{
+    width: 80%;
+    height: 7vw;
+    background-color: #D6E2DC;
+    margin: auto;
+    margin-top: 4vw;
+    font-size: 3.5vw;
+    box-sizing: border-box;
+    padding-top: 1vw;
+    padding-left: 2vw;
+    padding-right: 3vw;
+    display: flex;
+    justify-content: space-between;
+}
+.offf{
+    width: 80%;
+    height: 7vw;
+    background-color: #D6E2DC;
+    margin: auto;
+    margin-top: 4vw;
+    font-size: 3.5vw;
+    box-sizing: border-box;
+    padding-top: 1vw;
+    padding-left: 2vw;
+    padding-right: 3vw;
+    display: flex;
+    justify-content: space-between;
+    color: red;
+}
+.gyx{
+    font-size: 3.5vw;
+    color: rgb(0, 0, 0);
+}
+
+.loca{
+    width: 80%;
+    height: 7vw;
+    background-color: #ffffff;
+    margin: auto;
+    margin-top: 6vw;
+    font-size: 2.5vw;
+    box-sizing: border-box;
+    padding-top: 2vw;
+    padding-left: 4vw;
+    border-bottom: 1px solid black;
+   
+}
+
+.locaa{
+    width: 80%;
+    height: 7vw;
+    background-color: #ffffff;
+    margin: auto;
+    margin-top: 0vw;
+    font-size: 2.5vw;
+    box-sizing: border-box;
+    padding-top: 2vw;
+    padding-left: 4vw;
+    border-bottom: 1px solid black;
+   
+}
