@@ -296,7 +296,7 @@ input{
 
 .gz8{
     width: 80vw;
-    height: 40vw;
+    height: 50vw;
     /* display: flex; */
     justify-content: space-between;
     margin-top: 6vw;
@@ -343,7 +343,7 @@ input{
 
 .gz8 img{
     width: 80vw;
-    height: 35vw;
+    height: 50vw;
     /* display: flex; */
     /* justify-content: space-between; */
     /* margin-top: 3vw; */
